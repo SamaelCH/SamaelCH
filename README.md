@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome to my profile :D
+### I'm Samael, a person.
+### I'm experienced in:
+* C (Basic level)
+* Python (Intermediate)
+* Javascript (intermediate)
+* HTML & CSS (a bit more than intermediate)
+### There are some things about me:
+I'm Samael, a teenager who wants to code beautiful things and share them to the world. Long live the free software
+```C
+struct user {
+  char name[15];
+  char pronouns[10];
+  int age;
+};
 
-<!--
-**SamaelCH/SamaelCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+struct user samael = {"samael", "he/him", 17};
+```
+### Contact me!
+* [Email](smaelnoc@gmail.com)
