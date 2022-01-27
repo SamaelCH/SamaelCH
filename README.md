@@ -17,6 +17,6 @@ struct user {
 struct user samael = {"samael", "he/him", 17};
 ```
 ### Contact me!
-* [Email](smaelnoc@gmail.com)
+* [Email](samaelchavez00@gmail.com)
 
 ![Samael's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamaelCH&theme=dark&show_icons=true)
