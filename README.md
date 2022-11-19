@@ -4,19 +4,10 @@
 * C
 * C++
 * Python
-* Javascript
-* HTML & CSS
+* Rust
 ### There are some things about me:
-I'm Samael, a teenager who wants to code beautiful things and share them to the world. Long live the free software
-```C
-struct user {
-  char name[15];
-  char pronouns[10];
-  int age;
-};
+I'm Samael, a free software enthusiast who wants to code helpful things and improve everyone's life.
 
-struct user samael = {"samael", "he/him", 17};
-```
 ### Contact me!
 * samaelchavez00@gmail.com
 
